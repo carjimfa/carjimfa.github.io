@@ -3,9 +3,6 @@ layout: post
 title: Un nuevo blog
 ---
 
-
-### Oh no!
-
 Entiendo que otro blog sobre un programador blanco cis no es lo que necesitaba el mundo, pero sí que es lo que necesitaba este programador blanco cis afincado en este momento en Valencia.
 
 Me he montado este blog con un fork de Jekyll y aprovechando las github pages, que parece ser la manera más sencilla de publicar contenido sin tener que pasar por Wordpress, Ghost o similares.
