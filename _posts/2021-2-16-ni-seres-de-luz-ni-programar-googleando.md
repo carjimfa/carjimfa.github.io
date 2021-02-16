@@ -33,7 +33,7 @@ Creo que es importante resaltar varias cosas:
 4. Somos seres de luz ante el resto por desconocimiento, no porque seamos seres de luz.
 5. Buscar en Google o StackOverflow es solo una parte del trabajo como lo es para un abogado buscar un artículo de una ley o para un científico buscar un paper en Scihub.
 6. Decir que cualquiera puede programar infravalorando a todo el que está empezando y le cuesta solo te infravalora como profesional habiendo pasado por ese proceso.
-7. Asumir que somos seres de luz o hemos nacido para cambiar el mundo solo aumenta el grosor de la busbuja en la que nos encontramos, con todo lo que ello conlleva.
+7. Asumir que somos seres de luz o hemos nacido para cambiar el mundo solo aumenta el grosor de la burbuja en la que nos encontramos, con todo lo que ello conlleva.
 8. NUNCA hay que asumir que todo está resuelto pero tampoco hay que asumir que no hay soluciones ya hechas para un problema.
 
 Y bueno, podría convertir esto en un decálogo pero creo que se entiende suficiente el núcleo de este texto. No infravaloréis, no sobrevaloréis. Todo en su justa medida. Ojalá reine la empatía en nuestra comunidad porque de verdad que últimamente la tenemos en mínimos y con este lag no se puede jugar.
