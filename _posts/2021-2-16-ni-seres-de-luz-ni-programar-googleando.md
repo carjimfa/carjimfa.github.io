@@ -27,7 +27,7 @@ Además, ¿quien define qué es programar bien y mal? [Podríamos ver las mejore
 
 No hay nada de malo en decir que todo el mundo puede programar pero tampoco hay que infravalorar a las personas que están empezando. Es una frase con muchos matices y no hay que usarla a la ligera. Decir que cualquiera puede programar puede infravalorar el esfuerzo que muchos hacemos para desarrollar día a día con un mínimo de calidad. También se suele decir con una perspectiva elitista, infravalorando a todo el que está empezando y le cuesta o le requiere un esfuerzo mayor. Esto solo te invalida como profesional habiendo pasado por ese proceso previamente, una muestra más de elitismo.
 
-## Ni se es especial ni diferente a otras profesiones. Somos seres de luz ante el resto por desconocimiento, no porque seamos realmente seres de luz.
+## Ni se es especial ni diferente a otras profesiones.
 
 Hay una escala de grises entre "somos seres de luz, hacemos magia negra" y "nuestro trabajo es resolver bugs haciendo búsquedas en Google". Es que ni una cosa, ni otra, y ambas tienen parte de razón.
 
